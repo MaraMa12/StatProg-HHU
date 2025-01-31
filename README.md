@@ -43,4 +43,4 @@
 * [Solution Tutorial 9](./tutorial/tutorial-9-solution/tutorial_9_solution.ipynb)  
 * [Solution Tutorial 10](./tutorial/tutorial-10-solution/tutorial_10_solution.ipynb)  
 
-Happy semester break!!
+Happy semester break!
